@@ -1,0 +1,1 @@
+export { default } from 'ember-socket-adapter/components/data-validator';
