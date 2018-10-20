@@ -1,0 +1,1 @@
+# ember-socket-adapter
